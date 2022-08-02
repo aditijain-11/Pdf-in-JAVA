@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (1)/itextpdf-5.5.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/commons-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/io-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/kernel-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (2)/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/commons-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/io-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/kernel-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/layout-7.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditi Jain/Downloads/jar_files (3)/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
